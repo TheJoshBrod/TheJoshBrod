@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @TheJoshBrod
-- 👀 I’m interested in oxford commas
-- 🌱 I’m currently studying CS at UMich
-- 📫 How to reach me: jdb7878@yahoo.com
+- Hi, I’m @TheJoshBrod
+- I’m currently studying CS at UMich
+- How to reach me: joshbrod@umich.edu
