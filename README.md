@@ -1,7 +1,7 @@
 
 # Hi, I'm Josh! 
 
-- I’m currently a second year student studying CS at the University of Michigan
+- I’m currently a third-year student studying CS at the University of Michigan
 - How to reach me: joshbrod@umich.edu
 
 ## Programming Languages
