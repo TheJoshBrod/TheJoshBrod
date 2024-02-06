@@ -5,14 +5,13 @@
 - How to reach me: joshbrod@umich.edu
 
 ## Programming Languages
-| Language | Level of Proficiency|
-| :---:   | :---: | 
-| Python | Advanced  |
-| C++ | Intermediate |
-| C | Intermediate  |
-| Java | Novice |
-| Julia|Novice|
-|MATLAB|Noive|
+- Python
+- C++
+- C
+- JavaScript 
+- Java
+- Julia
+- MATLAB
 
 ## Other Skills/Frameworks
 - Regex
