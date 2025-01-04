@@ -2,8 +2,9 @@
 
 Hi, I'm Josh! I’m currently a fourth-year student studying CS at the University of Michigan. 
 
-Whether making a Data Visualization tool for an Electric Motorcycle, a Website to have a [Shared Spotify Queue](https://github.com/michiganhackers/spotify-open-source-proj), or a [Mini-Game Discord Bot](https://github.com/TheJoshBrod/TheGameBot) to play with your friends, I am passionate about creating cool projects that have an impact.
-I have a strong background in full-stack web development and data manipulation. 
+Whether making an Electric Motorcycle Data Visualization tool for Live Telemetry, a Website to have a [Shared Spotify Queue](https://github.com/michiganhackers/spotify-open-source-proj), or a [AI Powered Fitness App](https://github.com/jayphil123/trAIn) to play with your friends, I am passionate about creating cool projects that have an impact.
+I have a strong background in full-stack web development, data manipulation.
+My current focus is learning more about Artificial Intelligence and its applications.
 Despite my background, I don't shy away from a challenge; if I have an idea, I strive to make it a reality.
 
 Fun Fact, I also love being outdoors and have been to 20+ national parks 🌳
