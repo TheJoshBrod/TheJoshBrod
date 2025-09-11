@@ -1,47 +1,56 @@
-# About me! 
+# Hi, I'm Josh! 👋
 
-Hi, I'm Josh! I’m currently a fourth-year student studying CS at the University of Michigan. 
+- M.S.E in Computer Science @ University of Michigan (May '26)
+- Specializing in building and optimizing high-performance AI systems, from agentic workflows down to low-level GPU compiler enhancements.
+- Currently focused on developing performant AI Agents and accelerating next-gen workloads through GPU compiler optimizations.
 
-Whether making an Electric Motorcycle Data Visualization tool for Live Telemetry, a Website to have a [Shared Spotify Queue](https://github.com/michiganhackers/spotify-open-source-proj), or a [AI Powered Fitness App](https://github.com/jayphil123/trAIn) to play with your friends, I am passionate about creating cool projects that have an impact.
+---
 
-I have a strong background in full-stack web development, data manipulation.
-My current focus is learning more about AI and its applications.
+## About Me
+I specialize in creating **applied Agentic solutions** and **low-level optimizations**.  
+My experience spans across:
+- GraphRAG systems
+- MCP servers  
+- Data Pipelines for LLM & RAG Systems
+- Compiler-level optimization for AI workloads
 
-No matter the challenge, when I have an idea, I am determined to turn it into reality.
+These projects have come to life through a mix of **industry internships**, **academic research**, and **hands-on coursework**.  
 
-Fun Fact, I also love being outdoors and have been to 20+ national parks 🌳
+---
 
-## Skills
+## Tech Stack & Tools
 
-### Programming Languages
-- Python
-- JavaScript
-- TypeScript
-- C++
-- C
-- C#
-- Java
-- Julia
-- MATLAB
-- SQL
-- Regex
+- Languages: C++, Python, C, C#, Java, JavaScript, SQL
+- AI / ML: PyTorch, LangChain, Llamaindex, Ollama, Pandas, NumPy, CUDA, LLVM
+- Frameworks / Libraries: React, Next.js, FastAPI, QT, Dash
+- Systems & Tools: AWS, Linux, Docker, Git, Jenkins, GitHub, Cursor, Claude-Code
+- Databases: Postgres, SQLite, MySQL
 
-### Frameworks/Libraries
-🌐 WebDev: NextJS and React
+---
 
-🛢️ Database Management: SQLite and PostgreSQL
+## Recent Projects
 
-📡 RESTFull APIs: Flask and FastAPI
+- **[NAI Expert](#)** → An agentic tool that interprets complex hardware specs and APIs to generate customer-facing solutions, leveraging multi-agent workflows and function calling.
+- **[trAIn](https://github.com/jayphil123/trAIn)** → RAG-powered app for personalized workout planning, utilized Langchain, OpenAI API, Postgres, Flutter
+- **[Hurricane Readiness](https://github.com/thejoshbrod/Hurricane-Readiness)** → Property damage risk prediction + explainable AI interface, built with PyTorch, Ollama, and OpenAI api
+- **[Electric Motorcycle Live Telemetry](#)** → Modular LoRa-based telemetry for real-time vehicle diagnostics and data logging, implemented in embedded C++/QT with a reciever in Python
 
-🔎 Data Manipulation: Pandas and Regex
+*(More projects on my repos 👇)*
 
-📋 Unit Testing: Pytest
+---
 
-📊 Data Visualization: Matplotlib and Plotly
+## Fun Fact
+I love being outdoors and have visited **20+ National Parks** 🌳
 
-👀 Web Scraping: BeautifulSoup
+---
 
-🖥️ GUI Design: QT and WinForms
+## Links
+- Connect on [LinkedIn](https://www.linkedin.com/in/joshua-brodsky/)
+- Read my work on [Arxiv](https://arxiv.org/search/cs?searchtype=author&query=Brodsky,+J)
+---
 
-## Contact Me!
-How to Reach out: Connect with me on [Linkedin](https://www.linkedin.com/in/joshua-brodsky/)
+
+## GitHub Stats
+[![TheJoshBrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejoshbrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejoshbrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
