@@ -30,10 +30,10 @@ These projects have come to life through a mix of **industry internships**, **ac
 
 ## Recent Projects
 
-- **[NAI Expert](#)** → An agentic tool that interprets complex hardware specs and APIs to generate customer-facing solutions, leveraging multi-agent workflows and function calling.
+- **NAI Expert** → An agentic tool that interprets complex hardware specs and APIs to generate customer-facing solutions, leveraging multi-agent workflows and function calling.
 - **[trAIn](https://github.com/jayphil123/trAIn)** → RAG-powered app for personalized workout planning, utilized Langchain, OpenAI API, Postgres, Flutter
 - **[Hurricane Readiness](https://github.com/thejoshbrod/Hurricane-Readiness)** → Property damage risk prediction + explainable AI interface, built with PyTorch, Ollama, and OpenAI api
-- **[Electric Motorcycle Live Telemetry](#)** → Modular LoRa-based telemetry for real-time vehicle diagnostics and data logging, implemented in embedded C++/QT with a reciever in Python
+- **[Electric Motorcycle Live Telemetry](https://github.com/SparkElectricRacing/Live-Telemetry)** → Modular LoRa-based telemetry for real-time vehicle diagnostics and data logging, implemented in embedded C++/QT with a reciever in Python
 
 *(More projects on my repos 👇)*
 
