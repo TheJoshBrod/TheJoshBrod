@@ -20,47 +20,11 @@ A few of the projects I'm most proud of:
 
 ## Tech Stack & Tools
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
-### AI/ML
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6B4A2F?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Low-Level & Parallel Computing
-<p align="left">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" />
-  <img src="https://img.shields.io/badge/MPI-FF6F00?style=for-the-badge&logo=openmpi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMP-5C2D91?style=for-the-badge&logo=openmp&logoColor=white" />
-</p>
-
-### Full Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dash-0074D9?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### DevOps
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
+| **Category**                  | **Technologies** |
+|-------------------------------|------------------|
+| **Languages**                 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?&logo=postgresql&logoColor=white) |
+| **AI / ML**                   | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-fff?&logo=ollama&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-3776AB?&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4A2F?&logo=llama&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white) |
+| **Low-Level & Parallel**      | ![CUDA](https://img.shields.io/badge/CUDA-76B900?&logo=nvidia&logoColor=white) ![LLVM](https://img.shields.io/badge/LLVM-262D3A?&logo=llvm&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6F00?&logo=openmpi&logoColor=white) ![OpenMP](https://img.shields.io/badge/OpenMP-5C2D91?&logo=openmp&logoColor=white) |
+| **Full Stack**                | ![React](https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?&logo=fastapi&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?&logo=qt&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?&logo=vuedotjs&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-0074D9?&logo=plotly&logoColor=white) |
+| **DevOps**                    | ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&logo=aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white) |
