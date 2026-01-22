@@ -13,9 +13,9 @@ I'm always eager to connect with fellow developers and researchers. Feel free to
 
 A few of the projects I'm most proud of:
 
+- **[CUDA Ghost in the Shell](https://github.com/thejoshbrod/CGinS)** → Agentic-Compiler to turn PyTorch into optimized CUDA 
 - **AI Customer Support Agent** → Multi-Agent System w/ Graph & Vector RAG; provides support for hardware and API documentation  
 - **[trAIn](https://github.com/jayphil123/trAIn)** → RAG-powered app for personalized workout planning, utilized Langchain, OpenAI API, Postgres, Flutter
-- **[Hurricane Readiness](https://github.com/thejoshbrod/Hurricane-Readiness)** → Property damage risk prediction + explainable AI interface, built with PyTorch, Ollama, and OpenAI api
 - **[Electric Motorcycle Telemetry](https://github.com/SparkElectricRacing/Live-Telemetry)** → Modular LoRa telemetry system streaming real-time diagnostics from an electric race motorcycle
 
 ## Tech Stack & Tools
